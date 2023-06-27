@@ -1,2 +1,2 @@
-# Cloudy-MKII
-3D models of cloudy MKII robot
+# Cloudy-MKIII
+3D models of cloudy MKIII robot.
